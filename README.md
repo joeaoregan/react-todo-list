@@ -1,3 +1,11 @@
+# React Todo List App
+
+Basic todo list application with react
+
+# References
+
+[LinkedIn Learning: Building Modern Projects with React](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
