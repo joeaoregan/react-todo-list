@@ -1,6 +1,8 @@
 # React Todo List App
 
-Basic todo list application with react
+Basic todo list application with react.
+
+- Redux
 
 [See App Deployed on GitHub Pages](https://joeaoregan.github.io/react-todo-list/ "Open Todo List App")
 
