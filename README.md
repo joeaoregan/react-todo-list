@@ -2,9 +2,11 @@
 
 Basic todo list application with react
 
+[See App Deployed on GitHub Pages](https://joeaoregan.github.io/react-todo-list/ "Open Todo List App")
+
 # References
 
-[LinkedIn Learning: Building Modern Projects with React](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170)
+[LinkedIn Learning: Building Modern Projects with React](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170 "Go to LinkedIn Learning")
 
 # React + Vite
 
